@@ -1,0 +1,21 @@
+{
+  "name": "aurora-theme",
+  "displayName": "Aurora",
+  "description": "Aurora Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aurora Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aurora Theme-color-theme.json"
+      }
+    ]
+  }
+}
