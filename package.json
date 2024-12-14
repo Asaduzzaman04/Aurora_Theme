@@ -1,14 +1,12 @@
 {
   "name": "aurora-theme",
   "displayName": "Aurora",
-  "description": "Aurora Theme!",
+  "description": "A sleek and modern dark theme for Visual Studio Code.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
@@ -17,5 +15,6 @@
         "path": "./themes/Aurora Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
