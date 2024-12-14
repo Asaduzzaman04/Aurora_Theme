@@ -1,5 +1,5 @@
 {
-  "name": "aurora-theme",
+  "name": "aurora-theme-v2",  
   "displayName": "Aurora",
   "description": "A sleek and modern dark theme for Visual Studio Code.",
   "version": "0.0.1",
@@ -32,5 +32,5 @@
     ]
   },
   "license": "MIT",
-  "publisher": "ZamanAsad-2024Aurora-theme"  
+  "publisher": "ZamanAsad-2024Aurora-theme" 
 }
