@@ -7,6 +7,21 @@
     "vscode": "^1.95.0"
   },
   "categories": ["Themes"],
+  "icon": "/images/aurora_theme_icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "aurora",
+    "vscode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asaduzzaman04/Aurora_Theme"
+  },
+  "homepage": "https://github.com/Asaduzzaman04/Aurora_Theme",
+  "bugs": {
+    "url": "https://github.com/Asaduzzaman04/Aurora_Theme/issues"
+  },
   "contributes": {
     "themes": [
       {
