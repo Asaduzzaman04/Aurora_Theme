@@ -122,7 +122,21 @@
 	  "minimap.warningHighlight": "#ffca85",
 	  "diffEditor.insertedTextBackground": "#61ffca15",
 	  "diffEditor.removedTextBackground": "#ff79c615",
-	  "diffEditor.diagonalFill": "#45415833"
+	  "diffEditor.diagonalFill": "#45415833",
+	  "button.background": "#c979ff",
+	  "button.foreground": "#ffffff",
+	  "button.hoverBackground": "#a277ff",
+	  "button.secondaryBackground": "#3d375e7f",
+	  "button.secondaryForeground": "#edecee",
+	  "button.secondaryHoverBackground": "#3d375eb3",
+	  "extensionButton.prominentBackground": "#50fa7b",
+	  "extensionButton.prominentForeground": "#15141b",
+	  "extensionButton.prominentHoverBackground": "#66ff8c",
+	  "extensionButton.background": "#a277ff",
+	  "extensionButton.foreground": "#ffffff",
+	  "extensionButton.hoverBackground": "#15141b",
+	  "extensionBadge.remoteBackground": "#a277ff",
+	  "extensionBadge.remoteForeground": "#15141b"
 	},
 	"tokenColors": [
 	  {
