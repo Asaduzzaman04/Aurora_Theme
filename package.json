@@ -2,7 +2,7 @@
   "name": "aurora-themes-darker",
   "displayName": "Aurora Dark Theme",
   "description": "A sleek and modern dark theme for Visual Studio Code.",
-  "version": "0.1.1",
+  "version": "1.0.0",  
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -30,6 +30,11 @@
         "label": "Aurora Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Aurora Theme-color-theme.json"
+      },
+      {
+        "label": "Aurora Theme (Soft Text)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aurora-Theme-color-theme-soft-text.json"
       }
     ]
   },
