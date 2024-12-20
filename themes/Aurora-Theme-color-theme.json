@@ -86,7 +86,7 @@
 	  "editorHoverWidget.foreground": "#edecee",
 	  "editor.hoverHighlightBackground": "#3d375e4d",
 	  "editor.selectionHighlightBackground": "#3d375e4d",
-	  "editor.selectionHighlightBorder": "#a277ff",
+	  "editor.selectionHighlightBorder": "#4d4d4d",
 	  "notificationCenter.border": "#3d375e7f",
 	  "notificationCenterHeader.background": "#15141b",
 	  "notificationCenterHeader.foreground": "#edecee",
@@ -372,5 +372,5 @@
 		}
 	  }
 	]
-  }
+}
   

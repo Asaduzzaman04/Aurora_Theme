@@ -29,12 +29,16 @@
       {
         "label": "Aurora Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Aurora Theme-color-theme.json"
+        "path": "./themes/Aurora-Theme-color-theme.json"
       },
       {
         "label": "Aurora Theme (Soft Text)",
         "uiTheme": "vs-dark",
         "path": "./themes/Aurora-Theme-color-theme-soft-text.json"
+      },{
+        "label": " Aurora Theme (Pastel Shades)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aurora-Theme-Pastel-Shades.json"
       }
     ]
   },
